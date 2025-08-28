@@ -1,10 +1,10 @@
-Hello, I'm Vahe Hambardzumyan! 👋
+# Hello, I'm Vahe Hambardzumyan! 
 
 Welcome to my GitHub! I'm an aspiring Machine Learning Engineer and Data Scientist with a passion for harnessing data to solve real-world challenges. I'm pursuing a degree in Computer Science while actively sharpening my expertise in artificial intelligence.
 
-🚀 About Me
 
 
+##  🚀 About Me 
 
 
 
@@ -22,45 +22,48 @@ Welcome to my GitHub! I'm an aspiring Machine Learning Engineer and Data Scienti
 
 🎯 My goal is to contribute to impactful projects and collaborate with innovative teams in the AI and data science space.
 
-🛠️ My Tech Stack
 
 
 
 
 
-Languages: Python, SQL, R
 
+##
 
-
-ML/DL Frameworks: Scikit-learn, TensorFlow, PyTorch
-
-
-
-Data Tools: Pandas, NumPy, Matplotlib, Seaborn
-
-
-
-Other Tools: Git, Jupyter Notebook
-
-
-
-Databases: MySQL, PostgreSQL
+##  🛠️ My Tech Stack
 
 
 
 
 
-📫 Get in Touch
+**Languages:** Python, SQL, R
 
 
 
-📧 Email: ham.vahe@gmail.com
+**ML/DL Frameworks:** Scikit-learn, TensorFlow, PyTorch
 
 
 
-💼 LinkedIn: [linkedin.com/in/vahe-hambardzumyan]
+**Data Tools:** Pandas, NumPy, Matplotlib, Seaborn
+
+
+
+**Other Tools:** Git, Jupyter Notebook
+
+
+
+**Databases:** MySQL, PostgreSQL
+
+##
+
+## 📫 Get in Touch
+- 📧 **Email**: vahe.hambardzumyan@example.com
+- 💼 **LinkedIn**: [linkedin.com/in/vahe-hambardzumyan](https://linkedin.com/in/vahe-hambardzumyan)
 
 
 
 
 I'm excited to connect, collaborate, and learn from the community. Feel free to explore my repositories or reach out for project ideas or discussions!
+
+
+![Profile Visits](https://img.shields.io/endpoint?url=https://yasinkalkan.com/api/githubvisitorstats/track/?user=vahehambardzumyan)
