@@ -1,69 +1,41 @@
-# Hello, I'm Vahe Hambardzumyan! 
 
-Welcome to my GitHub! I'm an aspiring Machine Learning Engineer and Data Scientist with a passion for harnessing data to solve real-world challenges. I'm pursuing a degree in Computer Science while actively sharpening my expertise in artificial intelligence.
+ # Hello, I'm Vahe Hambardzumyan!   
 
+```
+Welcome to my GitHub!
 
+I'm ML Engineer and Data Scientist pursuing a degree in Computer Science and sharpening expertise in AI.
+```
 
-##  🚀 About Me 
-
-
-
-🔍 I specialize in building predictive models, analyzing user behavior, and creating innovative AI-driven solutions.
-
-
-
-💻 Proficient in Python, machine learning algorithms (e.g., regression, clustering, neural networks), and data analysis tools like Pandas, NumPy, and Scikit-learn.
-
-
-
-🌱 I'm always learning! Currently diving deeper into advanced ML techniques, such as deep learning and reinforcement learning, to tackle complex challenges.
+```
+About:
+- Skilled: Python, Scikit-learn, TensorFlow, PyTorch, Pandas, NumPy
+- Learning: Deep learning, reinforcement learning, generative AI
+- Goal: Build impactful AI solutions and collaborate with innovative teams
+```
 
 
-
-🎯 My goal is to contribute to impactful projects and collaborate with innovative teams in the AI and data science space.
-
-
-
-
-
-
-
-##
-
-##  🛠️ My Tech Stack
+```
+Tech:
+- Languages: Python, SQL, R
+- ML/DL: Scikit-learn, TensorFlow, PyTorch
+- Data: Pandas, NumPy, Matplotlib, Seaborn
+- Tools: Git, Jupyter Notebook, Streamlit
+- Databases: MySQL, PostgreSQL
+- Concepts: MLE, OLS, SVD, GLMs, Gaussian-Markov assumptions
+```
 
 
+```
+Contact:
+- Email: ham.vahe@gmail.com
+- LinkedIn:linkedin.com/in/vahe-hambardzumyan
+```
 
-
-
-**Languages:** Python, SQL, R
-
-
-
-**ML/DL Frameworks:** Scikit-learn, TensorFlow, PyTorch
-
-
-
-**Data Tools:** Pandas, NumPy, Matplotlib, Seaborn
-
-
-
-**Other Tools:** Git, Jupyter Notebook
-
-
-
-**Databases:** MySQL, PostgreSQL
-
-##
-
-## 📫 Get in Touch
-- 📧 **Email**: vahe.hambardzumyan@example.com
-- 💼 **LinkedIn**: [linkedin.com/in/vahe-hambardzumyan](https://linkedin.com/in/vahe-hambardzumyan)
-
-
-
-
-I'm excited to connect, collaborate, and learn from the community. Feel free to explore my repositories or reach out for project ideas or discussions!
+```
+I'm excited to connect, collaborate, and learn from the community.
+Feel free to explore my repositories or reach out for project ideas or discussions!
+ ```
 
 
 ![Profile Visits](https://img.shields.io/endpoint?url=https://yasinkalkan.com/api/githubvisitorstats/track/?user=vahehambardzumyan)
