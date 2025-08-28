@@ -1,6 +1,6 @@
 Hello, I'm Vahe Hambardzumyan! 👋
 
-Welcome to my GitHub! I'm an aspiring Machine Learning Engineer and Data Scientist passionate about leveraging data to solve real-world problems and continuously expanding my knowledge in AI. I'm pursuing a degree in Computer Science while actively developing my expertise in artificial intelligence.
+Welcome to my GitHub! I'm an aspiring Machine Learning Engineer and Data Scientist with a passion for harnessing data to solve real-world challenges. I'm pursuing a degree in Computer Science while actively sharpening my expertise in artificial intelligence.
 
 🚀 About Me
 
@@ -48,12 +48,6 @@ Databases: MySQL, PostgreSQL
 
 
 
-📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="GitHub streak" />
-</p>
 
 
 📫 Get in Touch
