@@ -30,6 +30,7 @@ Tech:
 Contact:
 - Email: ham.vahe@gmail.com
 - LinkedIn:linkedin.com/in/vahe-hambardzumyan
+- Kaggle : https://www.kaggle.com/vaham333
 ```
 
 ```
