@@ -4,33 +4,41 @@
 ```
 Welcome to my GitHub!
 
-I'm ML Engineer and Data Scientist pursuing a degree in Computer Science and sharpening expertise in AI.
+I'm ML Engineer who  build machines that learn, generate, and aim to redefine the future of machine learning.
 ```
 
 ```
-About:
-- Skilled: Python, Scikit-learn, TensorFlow, PyTorch, Pandas, NumPy
-- Learning: Deep learning, reinforcement learning, generative AI
-- Goal: Build impactful AI solutions and collaborate with innovative teams
+Interests:
+
+- Python & Java for algorithmic problem solving and building ML pipelines
+- Generative AI, including diffusion models and multimodal architectures
+- Applied mathematics for modeling, optimization, and statistical reasoning
+- NLP & Computer Vision for real-world data understanding
+- Data Science tools: SQL, PowerBI, and automation with Airflow
 ```
 
 
 ```
-Tech:
-- Languages: Python, SQL, R
-- ML/DL: Scikit-learn, TensorFlow, PyTorch
-- Data: Pandas, NumPy, Matplotlib, Seaborn
-- Tools: Git, Jupyter Notebook, Streamlit
-- Databases: MySQL, PostgreSQL
-- Concepts: MLE, OLS, SVD, GLMs, Gaussian-Markov assumptions
+My focus:
+
+ - I work on projects aimed at pushing the boundaries of machine learning
+ - My goal is to build systems that don’t just improve existing solutions,
+but reshape how ML problems are approached and solved
 ```
 
+```
+How I train my thinking:
+
+ - I solve challenging problems on LeetCode, Deep-ML, and Kaggle
+ - These aren’t the goal — they’re preparation
+ - I use them to develop the mindset needed for hard, open-ended ML problems
+```
 
 ```
 Contact:
+
 - Email: ham.vahe@gmail.com
 - LinkedIn:linkedin.com/in/vahe-hambardzumyan
-- Kaggle : https://www.kaggle.com/vaham333
 ```
 
 ```
