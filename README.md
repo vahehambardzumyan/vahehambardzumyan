@@ -22,7 +22,7 @@
 | 💬 **NLP** | BERT, GPT, vLoRA, JEV, Mixture of Experts (MoE) |
 | 👁️ **Computer Vision** | YOLO, MiDaS, recognition, segmentation, vision-language models |
 | 🎨 **Generative AI** | Diffusion models, multimodal architectures, generative pipelines |
-| 🤖 **AI Agents** | LangChain, LangGraph, LlamaIndex, RAG pipelines, tool-using LLM agents, multi-agent workflows |
+| 🤖 **Agentic AI** | LangChain, LangGraph, LlamaIndex, RAG pipelines, tool-using LLM agents, multi-agent workflows |
 | 🎮 **Reinforcement Learning** | Q-learning, multi-armed bandits, Deep Q-Networks (DQN), policy gradients, actor-critic methods |
 | ⚙️ **MLOps** | Airflow, MLflow, Docker, ETL pipelines, workflow automation, model deployment |
 
