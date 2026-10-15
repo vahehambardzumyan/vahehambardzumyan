@@ -2,7 +2,7 @@
   <img src="header.svg" alt="Vahe Hambardzumyan, Machine Learning Engineer" width="800"/>
 </p>
 
-<h3 align="center"><i>Visionary ML engineer, experimenting with everything in data science, NLP, computer vision, reinforcement learning and AI agents.</i></h3>
+<h3 align="center"><i>Visionary ML engineer, experimenting with everything in data science, NLP, computer vision, reinforcement learning and Agentic AI workflows.</i></h3>
 
 <p align="center">
   <img src="neural_network.svg" alt="Animated neural network recognizing the letters V, A, H, E" width="720"/>
